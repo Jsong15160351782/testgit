@@ -6,6 +6,9 @@ public class Hellogit {
 		// TODO Auto-generated method stub
          System.out.println("Hello gitMaven");
 	     System.out.println("更新1");
+	     System.out.println("更新2");
+	     
+	     
 	}
 
 }
